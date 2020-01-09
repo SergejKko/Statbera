@@ -19,7 +19,7 @@
 
 	<nav class="nav-transperent">
 		<div class="nav-wrapper">
-			<a class="brand-logo nav-logo-size"><img alt="statbera_logo" id="top" src="images/logo/statbera_logo_white_letters.svg"></a> <a class="sidenav-trigger" data-target="mobile-demo"><i class="material-icons bigger-width-for-bars">menu</i></a>
+			<a class="brand-logo nav-logo-size"><img title="Statbera" alt="Statbera_logo" id="top" src="images/logo/statbera_logo_white_letters.svg"></a> <a class="sidenav-trigger" data-target="mobile-demo"><i class="material-icons bigger-width-for-bars">menu</i></a>
 			<ul class="right hide-on-med-and-down">
 				<li class="nav-padding-top">
 					<a class="nav-font" href="#about-us">Apie mus</a>
@@ -61,7 +61,7 @@
 		</div>
 	</div>
 	<div class="media-parallax parallax-container">
-		<div class="parallax"><img alt="darbai.jpg" src="images/background_images/darbai.jpg"></div>
+		<div class="parallax"><img title="Darbų pradžia" alt="darbu_pradzia" src="images/background_images/darbai.jpg"></div>
 	</div>
 	<div class="section about-us-article valign-wrapper">
 		<div class="row container">
@@ -72,7 +72,7 @@
 		</div>
 	</div>
 	<div class="media-parallax parallax-container">
-		<div class="parallax"><img alt="tool_belt.jpg" src="images/background_images/tool-belt.jpg"></div>
+		<div class="parallax"><img title="Darbo procesas darbo įrankiai" alt="darbo_procesas_darbo_irankiai" src="images/background_images/tool-belt.jpg"></div>
 	</div>
 	<div class="section about-us-article" id="our-services">
 		<div class="container">
@@ -112,7 +112,7 @@
 		</div>
 	</div>
 	<div class="media-parallax parallax-container">
-		<div class="parallax"><img alt="new_home.jpg" src="images/background_images/new-home.jpg"></div>
+		<div class="parallax"><img title="Naujas namo karkasas" alt="naujas_namo_karkasas" src="images/background_images/new-home.jpg"></div>
 	</div>
 	<div class="section about-us-article valign-wrapper">
 		<div class="row container" id="done-works">
@@ -129,151 +129,151 @@
 					</div>
 					<div class="modal-body">
 						<div class="responsive">
-							<div class="gallery"><img alt="20140520_181102-min" class="materialboxed gallery-images" src="images/gallery-images/20140520_181102-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20140520_181102-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20140527_095010-min" class="materialboxed gallery-images" src="images/gallery-images/20140527_095010-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20140527_095010-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20140529_203244-min" class="materialboxed gallery-images" src="images/gallery-images/20140529_203244-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20140529_203244-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20140529_203311-min" class="materialboxed gallery-images" src="images/gallery-images/20140529_203311-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20140529_203311-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20140731_081544-min" class="materialboxed gallery-images" src="images/gallery-images/20140731_081544-min-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20140731_081544-min-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20140801_190750-min" class="materialboxed gallery-images" src="images/gallery-images/20140801_190750-min-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20140801_190750-min-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20140801_190807-min" class="materialboxed gallery-images" src="images/gallery-images/20140801_190807-min-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20140801_190807-min-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20140825_110806-min" class="materialboxed gallery-images" src="images/gallery-images/20140825_110806-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20140825_110806-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20141121_104313-min" class="materialboxed gallery-images" src="images/gallery-images/20141121_104313-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20141121_104313-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150209_112317-min" class="materialboxed gallery-images" src="images/gallery-images/20150209_112317-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150209_112317-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150209_112323-min" class="materialboxed gallery-images" src="images/gallery-images/20150209_112323-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150209_112323-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150306_133422-min" class="materialboxed gallery-images" src="images/gallery-images/20150306_133422-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150306_133422-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150306_133425-min" class="materialboxed gallery-images" src="images/gallery-images/20150306_133425-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150306_133425-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150318_095523-min" class="materialboxed gallery-images" src="images/gallery-images/20150318_095523-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150318_095523-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150331_113740-min" class="materialboxed gallery-images" src="images/gallery-images/20150331_113740-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150331_113740-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150331_113745-min" class="materialboxed gallery-images" src="images/gallery-images/20150331_113745-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150331_113745-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150423_105328-min" class="materialboxed gallery-images" src="images/gallery-images/20150423_105328-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150423_105328-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150423_105342-min" class="materialboxed gallery-images" src="images/gallery-images/20150423_105342-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150423_105342-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150511_115638-min" class="materialboxed gallery-images" src="images/gallery-images/20150511_115638-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150511_115638-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150511_165711-min" class="materialboxed gallery-images" src="images/gallery-images/20150511_165711-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150511_165711-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150710_125128-min" class="materialboxed gallery-images" src="images/gallery-images/20150710_125128-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150710_125128-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150710_125200-min" class="materialboxed gallery-images" src="images/gallery-images/20150710_125200-min-recovered-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150710_125200-min-recovered-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150710_125201-min" class="materialboxed gallery-images" src="images/gallery-images/20150710_125201-min-recovered-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150710_125201-min-recovered-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150716_130440-min" class="materialboxed gallery-images" src="images/gallery-images/20150716_130440-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150716_130440-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150813_084909-min" class="materialboxed gallery-images" src="images/gallery-images/20150813_084909-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150813_084909-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20150925_155308-min" class="materialboxed gallery-images" src="images/gallery-images/20150925_155308-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20150925_155308-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20151002_130858-min" class="materialboxed gallery-images" src="images/gallery-images/20151002_130858-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20151002_130858-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20151113_075919-min" class="materialboxed gallery-images" src="images/gallery-images/20151113_075919-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20151113_075919-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20151113_075952-min" class="materialboxed gallery-images" src="images/gallery-images/20151113_075952-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20151113_075952-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20160805_145315-min" class="materialboxed gallery-images" src="images/gallery-images/20160805_145315-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20160805_145315-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20160805_145401-min" class="materialboxed gallery-images" src="images/gallery-images/20160805_145401-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20160805_145401-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20160920_174821-min" class="materialboxed gallery-images" src="images/gallery-images/20160920_174821-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20160920_174821-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20161001_152319-min" class="materialboxed gallery-images" src="images/gallery-images/20161001_152319-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20161001_152319-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20161001_152420-min" class="materialboxed gallery-images" src="images/gallery-images/20161001_152420-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20161001_152420-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20161013_164446-min" class="materialboxed gallery-images" src="images/gallery-images/20161013_164446-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20161013_164446-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20161122_163118-min" class="materialboxed gallery-images" src="images/gallery-images/20161122_163118-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20161122_163118-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170102_134009-min" class="materialboxed gallery-images" src="images/gallery-images/20170102_134009-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170102_134009-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170102_151648-min" class="materialboxed gallery-images" src="images/gallery-images/20170102_151648-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170102_151648-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170215_161355-min" class="materialboxed gallery-images" src="images/gallery-images/20170215_161355-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170215_161355-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170303_154725-min.jpg" class="materialboxed gallery-images" src="images/gallery-images/20170303_154725-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170303_154725-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170322_132553-min" class="materialboxed gallery-images" src="images/gallery-images/20170322_132553-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170322_132553-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170330_111854-min" class="materialboxed gallery-images" src="images/gallery-images/20170330_111854-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170330_111854-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170411_150116-min" class="materialboxed gallery-images" src="images/gallery-images/20170411_150116-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170411_150116-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170519_154759-min" class="materialboxed gallery-images" src="images/gallery-images/20170519_154759-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170519_154759-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170524_095218-min" class="materialboxed gallery-images" src="images/gallery-images/20170524_095218-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170524_095218-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170606_080657-min" class="materialboxed gallery-images" src="images/gallery-images/20170606_080657-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170606_080657-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170714_154523-min" class="materialboxed gallery-images" src="images/gallery-images/20170714_154523-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170714_154523-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170822_125100-min" class="materialboxed gallery-images" src="images/gallery-images/20170822_125100-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170822_125100-min.jpg" width="300"></div>
 						</div>
 						<div class="responsive">
-							<div class="gallery"><img alt="20170828_125025-min.jpg" class="materialboxed gallery-images" src="images/gallery-images/20170828_125025-min.jpg" width="300"></div>
+							<div class="gallery"><img title="Mūsų atlikti darbai" alt="atlikti_darbai" class="materialboxed gallery-images" src="images/gallery-images/20170828_125025-min.jpg" width="300"></div>
 						</div>
 					</div>
 				</div>
@@ -281,7 +281,7 @@
 		</div>
 	</div>
 	<div class="media-parallax parallax-container">
-		<div class="parallax"><img alt="cottage.jpg" src="images/background_images/cottage.jpg"></div>
+		<div class="parallax"><img title="Pilnai įrengtas namas" alt="pilnai_irengtas_namas" src="images/background_images/cottage.jpg"></div>
 	</div>
 
 	<!-- / Gallery  -->
@@ -296,7 +296,7 @@
 				<div class="col l6 s12">
 					<a href="#top">
 						<div class="row">
-							<img alt="statbera_logo" src="images/logo/statbera_logo.svg">
+							<img title="Statbera lohgotipas" alt="Statbera_logo" src="images/logo/statbera_logo.svg">
 						</div>
 					</a>
 				</div>
@@ -334,7 +334,7 @@
 							<p class="contacts-font">Tel. nr: <a class="aliceblue-color" href="tel:+37068154669">+37068154669</a></p>
 						</li>
 						<li>
-							<p class="contacts-font">El. paštas: <a class="font-caption aliceblue-color" href="mailto:%20info@statbera.lt">info@statbera.lt</a></p>
+							<p class="contacts-font">El. paštas: <a class="font-caption aliceblue-color" href="mailto:&#105;&#110;&#102;&#111;&#064;&#115;&#116;&#097;&#116;&#098;&#101;&#114;&#097;&#046;&#108;&#116;">info@statbera.lt</a></p>
 						</li>
 					</ul>
 				</div>
@@ -347,7 +347,7 @@
 		</div>
 		<div class="footer-copyright">
 			<div class="container">
-				© 2020 Visos teisės saugomos <a href="https://www.facebook.com/statbera/" target="_blank"><img alt="fb_link" class="fb-logo-style" src="images/icons/facebook.svg" title="fb_link"></a>
+				© 2020 Visos teisės saugomos <a href="https://www.facebook.com/statbera/" target="_blank"><img alt="aplankykite_mus_facebook_puslapyje" class="fb-logo-style" src="images/icons/facebook.svg" title="Aplankykite mūsų facebook puslapį"></a>
 			</div>
 		</div>
 	</footer>
