@@ -26,6 +26,13 @@ window.onclick = function(event) {
 		modal.style.display = "none";
 	}
 }
+$(document).ready(function(){
+    $('.sidenav')
+        .sidenav()
+        .on('click tap', 'li a', () => {
+            $('.sidenav').sidenav('close');
+        });
+});
 $(document).ready(function() {
 	$('.materialboxed').materialbox();
 });

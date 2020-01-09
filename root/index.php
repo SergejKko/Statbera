@@ -31,9 +31,6 @@
 					<a class="nav-font" href="#done-works">Atlikti darbai</a>
 				</li>
 				<li class="nav-padding-top">
-				 	<a class="nav-font" href="#contact-us">Susisiekite su mumis</a>
-				</li>
-				<li class="nav-padding-top">
 					<a class="nav-font" href="#our-contacts">Kontaktai</a>
 				</li>
 			</ul>
@@ -48,9 +45,6 @@
 		</li>
 		<li>
 			<a class="aliceblue-color" href="#done-works">ATLIKTI DARBAI</a>
-		</li>
-		<li>
-			<a class="aliceblue-color" href="#contact-us">SUSISIEKITE SU MUMIS</a>
 		</li>
 		<li>
 			<a class="aliceblue-color" href="#our-contacts">KONTAKTAI</a>
@@ -300,82 +294,42 @@
 		<div class="container">
 			<div class="row">
 				<div class="col l6 s12">
-					<h3 class="heading-one" id="contact-us">Susisiekite su mumis</h3>
-					<div class="row">
-						<form class="col s12" method="POST" id="form" data-toggle="validator" role="form">
-						<div class="alert alert-danger display-error"></div>
-						<div class="row first-name-warning">
-								<div class="input-field col s6">
-          						<input placeholder="Vardas" id="first_name" type="text" name="first_name" class="validate aliceblue-color">
-        						</div>
-								<div class="input-field col s6">
-          						<input placeholder="Pavardė" id="last_name" type="text" name="last_name" class="validate aliceblue-color">
-        						</div>
-							</div>
-							<div class="row">
-								<div class="col s12">
-									<div class="row">
-										<div class="input-field col s6">
-          								<input placeholder="Tel. nr" id="phone_number" type="tel" name="phone_number" class="validate aliceblue-color">
-          								<label id="phone-number-warning" for="phone_number"></label>
-        								</div>
-										<div class="input-field col s6">
-          								<input placeholder="El. paštas" id="email" name="email" type="email" class="validate aliceblue-color">
-        								</div>
-									</div>
-									<div class="row">
-
-										<div class="input-field col s12">
-          								<input placeholder="Žinutė" id="message" name="message" type="text" class="validate aliceblue-color">
-        								</div>
-									</div>
-									<div class="row">
-										<div class="input-field col s12">
-											<button class="waves-effect waves-light btn" id="submit" type="submit" value="submit">SIŲSTI</button>
-										</div>
-									</div>
-								</div>
-							</div>
-						</form>
-					</div>
+					<a href="#top">
+						<div class="row">
+							<img alt="statbera_logo" src="images/logo/statbera_logo.svg">
+						</div>
+					</a>
 				</div>
 				<div class="col l4 offset-l2 s12">
-					<img alt="statbera_logo" src="images/logo/statbera_logo.svg">
 					<ul>
-						<li style="list-style: none; display: inline">
-							<a href="#about-us">
 							<ul>
+								<a href="#about-us">
 								<li class="bottom_nav_padding">
 									<div class="grey-text text-lighten-3 nav-font">
 										Apie mus
 									</div>
 								</li>
-								<li style="list-style: none; display: inline"></li>
+								</a>
+								<a href="#our-services">
 								<li class="bottom_nav_padding">
 									<div class="grey-text text-lighten-3 nav-font">
 										Paslaugos
 									</div>
 								</li>
-								<li style="list-style: none; display: inline"></li>
+								</a>
+								<a href="#done-works">
 								<li class="bottom_nav_padding">
 									<div class="grey-text text-lighten-3 nav-font">
 										Atlikti darbai
 									</div>
 								</li>
-								<li style="list-style: none; display: inline"></li>
-								<li class="bottom_nav_padding">
-									<div class="grey-text text-lighten-3 nav-font">
-										Susisiekite su mumis
-									</div>
-								</li>
+								</a>
 								<li></li>
 								<li></li>
 								<li style="list-style: none; display: inline">
 									<h3 class="text-lighten-3 grey-text heading-one" id="our-contacts">KONTAKTAI</h3>
 								</li>
-							</ul></a>
-						</li>
-						<li></li>
+							</ul>
 						<li>
 							<p class="contacts-font">Tel. nr: <a class="aliceblue-color" href="tel:+37068154669">+37068154669</a></p>
 						</li>
