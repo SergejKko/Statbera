@@ -1,0 +1,258 @@
+.nav-transperent {
+	background-color: transparent;
+	position: absolute;
+	height: 90px;
+}
+.background-image-size {
+	background-image: url(../images/background_images/roof-truss-3339206.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+.second-background-image {
+	background-image: url(../images/background_images/darbai.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+.height-to-screen {
+	height: 100vh;
+}
+.nav-logo-size {
+	width: 150px;
+	margin: 10px;
+}
+.nav-padding-top {
+	padding-top: 15px;
+}
+.top-margin {
+	margin-top: 0;
+}
+.heading-one {
+	color: aliceblue;
+	text-shadow: 2px 2px 10px #000000;
+	font-size: 50px;
+	font-family: "Noto Sans", sans-serif;
+	font-variant: all-petite-caps;
+	padding-left: 10.5px;
+}
+.list-display {
+	list-style: disc;
+}
+.nav-font {
+	color: aliceblue;
+	font-family: sans-serif;
+	font-weight: 600;
+	font-variant: small-caps;
+	font-size: 17px;
+	text-shadow: 2px 2px 10px #000000;
+}
+.nav-font:hover {
+	background-color: #26a69a;
+}
+.contacts-font {
+	color: aliceblue;
+	font-family: sans-serif;
+	font-weight: 600;
+	font-variant: small-caps;
+	font-size: 17px;
+	text-shadow: 2px 2px 10px #000000;
+}
+.article-button {
+	background-color: rgba(64, 81, 78, 0.6);
+	margin-top: 50px;
+	/*	font*/
+	color: aliceblue;
+	font-family: sans-serif;
+	font-weight: 600;
+	font-variant: small-caps;
+	font-size: 17px;
+	text-shadow: 2px 2px 10px #000000;
+}
+.footer-custom {
+	color: #545454;
+}
+.about-us-article {
+	background-color: #545454;
+	color: aliceblue;
+	margin: 0;
+	height: 100%;
+}
+.side-nav-custom {
+	background-color: #545454;
+	color: aliceblue;
+}
+.bottom-list-style {
+	list-style: none;
+	display: inline;
+}
+/* The Modal (background) */
+
+.modal {
+	display: none;
+	/* Hidden by default */
+	position: fixed;
+	/* Stay in place */
+	z-index: 3;
+	/* Sit on top */
+	left: 0;
+	top: 0;
+	width: 100%;
+	/* Full width */
+	height: 100%;
+	/* Full height */
+	overflow: auto;
+	/* Enable scroll if needed */
+	background-color: rgb(0, 0, 0);
+	/* Fallback color */
+	background-color: rgba(0, 0, 0, 0.8);
+	/* Black w/ opacity */
+}
+/* Modal Content/Box */
+
+.modal-content {
+	background-color: transparent;
+	margin: 15% auto;
+	/* 15% from the top and centered */
+	padding: 20px;
+	width: 80%;
+}
+/* The Close Button */
+
+.close {
+	color: #aaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+}
+.close:hover, .close:focus {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+}
+/* Modal Header */
+
+.modal-header {
+	padding: 2px 16px;
+	background-color: #26a69a;
+	color: white;
+}
+/* Modal Body */
+
+.modal-body {
+	padding: 2px 16px;
+}
+/* Modal Footer */
+
+.modaly-footer {
+	padding: 2px 16px;
+	background-color: #545454;
+	color: white;
+}
+/* Modal Content */
+
+.modal-content {
+	position: relative;
+	background-color: transparent;
+	margin: auto;
+	padding: 0;
+	width: 80%;
+	animation-name: animatetop;
+	animation-duration: 0.4s
+}
+/* Add Animation */
+
+@keyframes animatetop {
+	from {
+		top: -300px;
+		opacity: 0
+	}
+	to {
+		top: 0;
+		opacity: 1
+	}
+}
+/* Gallery display */
+
+.gallery-images {}
+div.gallery {
+	border: 1px solid #ccc;
+}
+div.gallery:hover {
+	border: 1px solid #777;
+}
+div.gallery img {
+	width: 100%;
+	height: auto;
+}
+div.desc {
+	padding: 15px;
+	text-align: center;
+}
+* {
+	box-sizing: border-box;
+}
+.responsive {
+	padding: 0 6px;
+	float: left;
+	width: 24.99999%;
+}
+@media only screen and (max-width: 700px) {
+	.responsive {
+		width: 49.99999%;
+		margin: 6px 0;
+	}
+}
+@media only screen and (max-width: 500px) {
+	.responsive {
+		width: 100%;
+	}
+}
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+/*error*/
+
+input:invalid {
+	border: 2px dashed red;
+}
+input:valid {
+	border: 2px solid black;
+}
+.aliceblue-color {
+	color: aliceblue;
+}
+.font-caption {
+	font: caption;
+}
+.bottom_nav_padding {
+	margin: 10px;
+}
+.bigger-width-for-bars {
+	font-size: 35px;
+}
+@media only screen and (max-width: 992px) {
+	.media-parallax {
+		max-height: 400px;
+	}
+}
+@media only screen and (max-width: 600px) {
+	.media-parallax {
+		max-height: 150px;
+	}
+}
+.fb-logo-style {
+	width: 35px;
+	float: right;
+}
+.bottom-button-to-top {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.display-error {
+	color: red;
+	display: none;
+}
