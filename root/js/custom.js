@@ -36,7 +36,7 @@ $(document).ready(function(){
 $(document).ready(function() {
 	$('.materialboxed').materialbox();
 });
-<!--   Smooth scrolling    -->
+// Smooth scrolling
 $(document).ready(function() {
 	// Add smooth scrolling to all links
 	$("a").on('click', function(event) {
@@ -54,6 +54,6 @@ $(document).ready(function() {
 				// Add hash (#) to URL when done scrolling (default click behavior)
 				window.location.hash = hash;
 			});
-		} // End if
+		}
 	});
 });
