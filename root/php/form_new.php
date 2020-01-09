@@ -5,14 +5,14 @@ $errorMSG = "";
 // TODO: rewrite to shorthand IF statements.
 /* NAME */
 if (empty($_POST["first_name"])) {
-    $errorMSG = "<li>Įveskite vardą</<li>";
+    $errorMSG .= "<li>Įveskite vardą</<li>";
 } else {
     $first_name = $_POST["first_name"];
 }
 
 /* LAST NAME */
 if (empty($_POST["last_name"])) {
-    $errorMSG = "<li>Įveskite pavardę</<li>";
+    $errorMSG .= "<li>Įveskite pavardę</<li>";
 } else {
     $last_name = $_POST["last_name"];
 }
