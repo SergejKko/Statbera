@@ -7,11 +7,10 @@
 	<meta property="og:description" content="Karkasinių namų statyba ir stogų dengimas">
 	<meta property="og:image" content="file:///C:/Users/vaida/OneDrive/Stalinis%20kompiuteris/projektas/projektas_statbera/root/images/logo/statbera_logo.svg">
 	<meta property="og:url" content="http://projektas.lt/index.html">
-	<title>STATBETRA</title><!--Import Google Icon Font-->
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><!--Import materialize.css-->
+	<title>STATBETRA</title>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<link href="css/materialize.min.css" media="screen" rel="stylesheet" type="text/css">
 	<link href="css/custom.css" rel="stylesheet" type="text/css">
-<!--	<link href="js/custom.js" rel="stylesheet">-->
 </head>
 <body>
 
@@ -119,9 +118,6 @@
 			<h3 class="heading-one">Atliktų darbų galerija</h3><!-- Trigger/Open The Modal -->
 			<p>Statbera, MB kvalifikuotų specialistų komanda kompleksiškai modernizuos jūsų gyvenamąjį būstą, atliksime namo fasado, stogo renovacijos - pakeitimo ir kitus apdailos darbus. Darbus atliksime greitai ir kokybiškai pasiūlant optimaliausius sprendimus ir geriausias medžiagas.</p><button class="waves-effect waves-light btn" id="myBtn">GALERIJA</button> <!-- Gallery -->
 			<div class="modal" id="myModal">
-
-				<!-- Modal content -->
-
 				<div class="modal-content">
 					<div class="modal-header">
 						<span class="close">&times;</span>
@@ -326,7 +322,7 @@
 								</a>
 								<li></li>
 								<li></li>
-								<li style="list-style: none; display: inline">
+								<li class="bottom-list-style">
 									<h3 class="text-lighten-3 grey-text heading-one" id="our-contacts">KONTAKTAI</h3>
 								</li>
 							</ul>

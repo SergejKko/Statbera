@@ -57,36 +57,3 @@ $(document).ready(function() {
 		} // End if
 	});
 });
-$(document).ready(function() {
-      $('#submit').click(function(e){
-        e.preventDefault();
-
-         var first_name = $("#first_name").val();
-         var last_name = $("#last_name").val();
-			var phone_number = $("#phone_number").val();
-			var email = $("#email").val();
-         var message = $("#message").val();
-
-        $.ajax({
-            type: "POST",
-            url: "php/form_new.php",
-            dataType: "json",
-            data: {first_name:first_name, last_name:last_name, phone_number:phone_number, email:email, message:message},
-            success : function(data){
-				console.log(data);
-
-                if (data.code == "200"){
-					alert('Dėkojame. Užklausa sėkmingai pateikta.');
-					console.log("Pateikta užklausa sėkmingai. Formos duomenys: " + data.msg);
-					$('#form')[0].reset();  // Reset all form data
-					$(".display-error").css("display","none"); // Hide all errors
-					$("#submit").prop("disabled", true); // Disable submit button (avoiding sending twice and etc.)
-                } else {
-                    $(".display-error").html("<ul>"+data.msg+"</ul>");
-                    $(".display-error").css("display","block");
-                }
-            }
-        });
-
-      });
-  });

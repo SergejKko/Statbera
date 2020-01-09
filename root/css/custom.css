@@ -251,8 +251,3 @@ input:valid {
 	text-align: center;
 	margin-bottom: 10px;
 }
-
-.display-error {
-	color: red;
-	display: none;
-}
